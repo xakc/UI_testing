@@ -1,0 +1,21 @@
+{
+  "name": "testcafe-testing",
+  "version": "1.0.0",
+  "description": "UI Testing with JS TestCafe Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome ./tests"
+  },
+  "keywords": [
+    "TestCafe",
+    "UI-testing",
+    "POM",
+    "Automation"
+  ],
+  "author": "Nikolay Nikolov",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.3.2",
+    "testcafe": "^1.15.2"
+  }
+}
